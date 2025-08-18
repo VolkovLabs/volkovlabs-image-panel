@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Changed
 
-- Updated Development Provisioning
+- Updated Development Provisioning ([#162](https://github.com/volkovlabs/business-media/pull/162)).
 
 ## [7.1.0] - 2025-07-22
 
