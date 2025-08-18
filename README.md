@@ -66,15 +66,6 @@ The **Business Suite** is a collection of open-source plugins developed and main
 
 [![Business Suite for Grafana](https://raw.githubusercontent.com/VolkovLabs/.github/main/business.png)](https://volkovlabs.io/plugins/)
 
-### Enterprise Support
-
-Elevate your experience with [Business Suite Enterprise](https://volkovlabs.io/pricing/). Benefits include:
-
-- Dedicated support via Zendesk.
-- Priority handling for feature requests and bug fixes.
-- In-person consultations.
-- Access to exclusive Business Intelligence features.
-
 ## 📜 License
 
 This project is licensed under the Apache License Version 2.0. See the [LICENSE](https://github.com/volkovlabs/business-media/blob/main/LICENSE) file for details.

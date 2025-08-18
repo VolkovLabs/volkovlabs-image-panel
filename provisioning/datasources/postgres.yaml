@@ -11,6 +11,7 @@ datasources:
     user: postgres
     uid: P1D2C73DC01F2359A
     jsonData:
+      database: postgres
       postgresVersion: 1200
       sslmode: disable
     secureJsonData:
